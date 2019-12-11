@@ -17,7 +17,7 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(8).pdf" style="text-decoration:none;">Data Mining and Analysis: Fundamental Concepts and Algorithms</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(9).pdf" style="text-decoration:none;">Crime and Punishment</a></b></li>                         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(9).pdf" style="text-decoration:none;">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(10).pdf" style="text-decoration:none;">Deep Learning: A Practitioner's Approach</a></b></li>  
                           
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(11).pdf" style="text-decoration:none;">Deep learning in color: towards automated quark/gluon jet discrimination</a></b></li>
