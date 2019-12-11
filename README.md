@@ -6,7 +6,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(2).pdf" style="text-decoration:none;">A Guide to Constraining Effective Field Theories with Machine Learning</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(3).pdf" style="text-decoration:none;">Adversarial learning to eliminate systematic errors: a case study in High Energy Physics</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(4).pdf" style="text-decoration:none;">War and Peace</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(4).pdf" style="text-decoration:none;">Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python</a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(5).pdf" style="text-decoration:none;">Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics</a></b></li>  
  
