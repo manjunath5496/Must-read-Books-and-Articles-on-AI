@@ -32,7 +32,7 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(17).pdf" style="text-decoration:none;">Evidence for the H &rarr; b(b)over-bar decay with the ATLAS detector</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(18).pdf" style="text-decoration:none;">Great Expectations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(18).pdf" style="text-decoration:none;">Machine Learning Paradigms</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(19).pdf" style="text-decoration:none;">Generating SQL Queries from Natural Language</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-read-Books-and-Articles-on-AI/blob/master/bop(20).pdf" style="text-decoration:none;">Machine Learning in High Energy Physics</a></b></li>  
